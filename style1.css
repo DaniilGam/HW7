@@ -1,0 +1,83 @@
+.BlueWebStudio {
+    color: #2196F3;
+font-size: 26px;
+
+}
+
+.TextUp {
+    color: #2196F3;
+    font-size: 14px;
+}
+
+.TextUpBlack {
+    color: #212121;
+    font-size: 14px;
+}
+
+.BlackWebStudio {
+    color: #000000;
+    font-size: 26px;
+}
+
+.Button {
+    width: 73px;
+    height: 38px;
+    background: #2196F3;
+    color: #FFF;
+    font-size: 16px;
+}
+
+.Button1 {
+    width: 112px;
+    height: 38px;
+    background: #F5F4FA;
+    color: #212121;
+    font-size: 16px;
+}
+
+.Button2 {
+    width: 112px;
+    height: 38px;
+    background: #F5F4FA;
+}
+
+.Button3 {
+    background: #F5F4FA;
+    width: 103px;
+    height: 38px;
+}
+
+.Button4 {
+    width: 130px;
+    height: 38px;
+    background: #F5F4FA;
+}
+
+.img {
+    width: 370px;
+    height: 294px;
+}
+
+.TextH1 {
+    color: #212121;
+}
+
+.TextH4 {
+    color: #757575;
+}
+
+
+
+.address {
+    width: 231px;
+    height: 21px;
+    color: #FFF;
+    font-size: 14px;
+}
+
+.TextVerySmall {
+    color: rgba(255, 255, 255, 0.60);
+    font-size: 14px;
+    width: 231px;
+    height: 21px;
+}

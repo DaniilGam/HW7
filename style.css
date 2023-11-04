@@ -1,0 +1,71 @@
+.BlueWebStudio {
+    color: #2196F3;
+font-size: 26px;
+
+}
+
+.BlackWebStudio {
+    color: #000000;
+    font-size: 26px;
+}
+
+.TextUp {
+    color: #2196F3;
+    font-size: 14px;
+}
+
+.TextUpBlack {
+    color: #212121;
+    font-size: 14px;
+}
+
+.Button {
+    background-color: #2196F3;
+    color: white;
+    width: 216px;
+    height: 50px;
+    font-size: 16px;
+}
+
+.Img {
+    width: 370px;
+    height: 294px;
+}
+
+.ImgPeople {
+    width: 270px;
+    height: 260px;
+}
+
+.TextSettings {
+    color: #212121;
+    font-size: 36px;
+}
+
+.TextSettingsSmall {
+    width: 270px;
+    height: 48px;
+    color: #757575;
+    font-size: 14px;
+}
+
+.address {
+    width: 231px;
+    height: 21px;
+    color: #FFF;
+    font-size: 14px;
+}
+
+.TextVerySmall {
+    color: rgba(255, 255, 255, 0.60);
+    font-size: 14px;
+    width: 231px;
+    height: 21px;
+}
+
+.TextVerySmallBlue {
+    color: #2196F3;
+    font-size: 14px;
+    width: 231px;
+    height: 21px;
+}
